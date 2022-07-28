@@ -40,20 +40,22 @@
             word-wrap: normal;
             padding:2em;
         }
-        .heading{
-            font-size:x-large;  
+        .heading1{
+            font-size:large;
+            padding:0.5em;
+            line-height:1.7;
         }
-        .sub-heading{
+        .sub-heading1{
             font-size: medium;
-            margin:0 0.5em;
+            margin:0 0.7em;
         }
-        .wirtable-area{
-            margin:1em;
-            padding:1em;
-            line-height: 1.5;
+        .wirtable-area1{
+            margin: 0 1em;
+            padding:0.25em 1em;
+            line-height: 1.25;
         }
-        .margin{
-            padding:0 2.15em;
+        .margin1{
+            padding:0 1em;
         }
     </style>
 </head>
@@ -67,60 +69,60 @@
                 b
             </div>
             <div class="col-3">
-                <div class="heading">
+                <div class="heading1">
                     Name
-                    <div class="sub-heading">
+                    <div class="sub-heading1">
                         This is myanmar
                     </div>
                 </div>
-                <div class="heading">
+                <div class="heading1">
                     Name
-                    <div class="sub-heading">
+                    <div class="sub-heading1">
                         This is myanmar
                     </div>
                 </div>
-                <div class="heading">
+                <div class="heading1">
                     Name
-                    <div class="sub-heading">
+                    <div class="sub-heading1">
                         This is myanmar
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="wirtable-area">
-        <div class="heading">
+    <div class="wirtable-area1">
+        <div class="heading1">
             Name
-            <div class="sub-heading">
+            <div class="sub-heading1">
                 This is myanmar
             </div>
         </div>
-        <div class="heading">
+        <div class="heading1">
             Name
-            <div class="sub-heading">
+            <div class="sub-heading1">
                 This is myanmar
             </div>
         </div>
-        <div class="heading">
+        <div class="heading1">
             Name
-            <div class="sub-heading">
+            <div class="sub-heading1">
                 This is myanmar
             </div>
         </div>  
-        <div class="heading">
+        <div class="heading1">
             Home
-            <div class="sub-heading ">
-                <ul class="margin">
+            <div class="sub-heading1 ">
+                <ul class="margin1">
                     <li>Coffee</li>
                     <li>Tea</li>
                     <li>Milk</li>
                 </ul>  
             </div>
         </div>
-        <div class="heading">
+        <div class="heading1">
             Home
-            <div class="sub-heading  bold">
-                <ul class="margin">
+            <div class="sub-heading1  bold">
+                <ul class="margin1">
                     <li>Home</li>
                     <li>Home</li>
                     <li>Home</li>

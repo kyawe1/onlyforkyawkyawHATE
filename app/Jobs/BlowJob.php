@@ -31,7 +31,7 @@ class BlowJob implements ShouldQueue
      */
     public function handle()
     {
-        $pdf = Pdf::loadView("fuck/three");
+        $pdf = Pdf::loadView("fuck/one");
         $pdf->save(storage_path() . "/document.pdf");
     }
 }
